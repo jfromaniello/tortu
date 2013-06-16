@@ -1,16 +1,12 @@
 {
   "name": "tortu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AJLogo command line interpreter",
   "bin": "./index.js",
-  "repository": { 
-    "type": "git", 
-    "url": "git://github.com/jfromaniello/tortu.git" 
-  },
+  "repository": "",
   "scripts": {
     "test": "mocha test"
   },
-  "repository": "",
   "keywords": [
     "logo",
     "tortu",
