@@ -1,4 +1,4 @@
- [AJLogo](https://github.com/ajlopez/AjLogoJs) [LOGO](http://en.wikipedia.org/wiki/Logo) for the command-line.
+ [AJLogo](https://github.com/ajlopez/AjLogoJs) command line interpreter and renderer.
 
 ## Installation
 
