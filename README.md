@@ -34,7 +34,7 @@ then you can run it as:
 tortu test.logo
 ~~~
 
-Alternatively you can use shebangs:
+Alternatively you can use __shebang__:
 
 ~~~
 #!/usr/bin/env tortu
