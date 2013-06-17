@@ -1,6 +1,6 @@
  [AJLogo](https://github.com/ajlopez/AjLogoJs) command line interpreter and renderer.
 
-![](https://dl.dropboxusercontent.com/1/view/9yv6pnbao46eo4l/Aplicaciones/sstodb/ss-2013-06-16T17-44-25.png)
+![](https://dl.dropboxusercontent.com/u/1525624/blog/canvas-logo.png)
 
 ## Installation
 
